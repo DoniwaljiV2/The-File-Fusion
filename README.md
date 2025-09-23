@@ -24,12 +24,9 @@ FilmFusion uses TMDB’s REST API. Below are the endpoints used:
 https://api.themoviedb.org/3/search/movie?api_key=YOUR_API_KEY&query=SEARCH_TERM
 
 - **Get Movie Trailer by ID**  
-
 https://api.themoviedb.org/3/movie/{movie_id}/videos?api_key=YOUR_API_KEY
 
-
 - **Get Trending Movies (Daily)**  
-
 https://api.themoviedb.org/3/trending/all/day?api_key=YOUR_API_KEY
 
 ---
